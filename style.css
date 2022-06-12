@@ -1,0 +1,25 @@
+body {
+
+    background-image: url('images/icecream.jpg');
+}
+
+#Choco {
+
+    border: 4px rgb(23, 23, 139) solid;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+#mintChoco {
+
+    border: 4px rgb(236, 8, 8) dotted;
+    background-color: rgba(255, 255, 255, .5), ;
+}
+
+.center {
+    margin: 10;
+    position: fixed;
+    top: 95%;
+    left: 95%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
